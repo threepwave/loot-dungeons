@@ -1,5 +1,3 @@
-# dungeon
-
 Dungeons (for Adventurers). A simple procedural dungeon map generator that developers can use to build out games for the Loot ecosystem.
 
 ````
@@ -71,12 +69,12 @@ Dungeons contain a list of 'tiles' which have different charactertics:
 Dungeons have a name (e.g. 'Den of the Twins') to give each one a sense of permanence. Some names will be repeated (e.g. 'Stony Field') but more rare names will be unique.
 
 Dungeons have an environment that implies a theme. Our hope is that the environment combined with the name and shape can give each dungeon its own character. Environments are as follows:
-0 - Desert Plateau
-1 - Forest Ruins
-2 - Underwter Keep
-3 - Stone Temple
-4 - Mountain Deep
-5 - Ember's Glow
+* 0 - Desert Plateau
+* 1 - Forest Ruins
+* 2 - Underwater Keep
+* 3 - Stone Temple
+* 4 - Mountain Deep
+* 5 - Ember's Glow
 
 ![Environments](https://github.com/threepwave/dungeons/raw/names/images/environments.png)
 
